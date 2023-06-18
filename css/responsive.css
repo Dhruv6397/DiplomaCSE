@@ -1,5 +1,8 @@
 @media only screen and (max-width: 1140px){
-    .nav-list{
+  .top{
+    font-size: 1rem;
+  }  
+  .nav-list{
         flex-direction: column;
     }
     .box-main{
@@ -16,7 +19,7 @@
        display: inline-block;
        cursor: pointer;
     }
-    .h-nav-resp{
+    .h-nav-resp{z
         height: 80px;
     }
     .v-class-resp{
